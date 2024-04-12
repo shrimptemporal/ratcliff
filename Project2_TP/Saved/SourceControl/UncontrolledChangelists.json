@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
+				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
+				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/BP_Enemy.uasset",
+				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/AI_Enemy.uasset",
+				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/BTT_FindRandomPatrolLocation.uasset",
 				"D:/ratcliff/Project2_TP/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
 				"D:/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/BP_Brazier.uasset",
