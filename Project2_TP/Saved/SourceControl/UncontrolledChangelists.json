@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 	"version": 1,
 	"changelists": [
@@ -6,77 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_GraveShift_GameMode.uasset",
 				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/W_PlayerUI.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/BP_GraveBase.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/BP_OpenGrave.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/Exit_Blueprint.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0653.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/AI/BP_Enemy.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/AI/BT_Enemy.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/AI/BTT_FindRandomPatrolLocation.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerHidingComponent.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/LevelPrototyping/ColorPalette/M_Vivid.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Vine1.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Vine2.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Vine3.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Vine4.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Vine5.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Torch.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Flower2.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Flower1.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Spider.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Spiderweb.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/OLD/pmcColor_7.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Mushroom1.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Mushroom2.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_Rock1.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/PostProcessing/PPMat_NewFog.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/Player/BP_GraveShift_GameMode.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0648.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0649.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0650.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0651.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0653.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0654.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0655.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/IMG-0656.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/Pause_Screen_UI.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/W_PlayerUI.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/W_WinScreen.uasset",
-				"C:/Users/ethan.vawter/GitRepoNew/ratcliff/Project2_TP/Content/GraveShift/Graves/Exit_Blueprint.uasset",
-				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/BP_Enemy.uasset",
-				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/AI_Enemy.uasset",
-				"C:/Users/nate.spielman/Documents/Repo/ratcliff/Project2_TP/Content/GraveShift/AI/BTT_FindRandomPatrolLocation.uasset",
-				"D:/ratcliff/Project2_TP/Content/StarterContent/Audio/Collapse01.uasset",
-				"D:/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"D:/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/BP_Brazier.uasset",
-				"D:/ratcliff/Project2_TP/Content/Audio/SFX/Brazier_2.uasset",
-				"D:/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap"
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset"
 			]
 		}
 	]
-=======
-{
-	"version": 1,
-	"changelists": [
-		{
-			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LightingLevel.umap",
-				"/Users/beagodeaux/Desktop/ratcliff/Project2_TP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
-			]
-		}
-	]
->>>>>>> Set_Dressing
 }
