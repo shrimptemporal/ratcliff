@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/Characters/Monster_Character/Monster_walking_Anim.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/AI/BT_Enemy.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/Soundz/SoundManagerComponent.uasset",
 				"D:/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
 				"D:/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
 				"D:/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/BP_Brazier.uasset",
