@@ -5,19 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrowcomplete.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/barrow.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/metal.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/wheel.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_pCube1.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_pCube3.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_pCube4.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_pCylinder1.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_pCylinder2.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/WheelBarrow_polySurface1.uasset",
-				"C:/Users/renee.bamford/Desktop/Repo/ratcliff/Project2_TP/Content/GraveShift/Models/Wood.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap"
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Screamers/BP_Screamer.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PJ/IN4JSPISIIM9RYMM15LPPY.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Screamers/BP_HorizontalScreamer.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LightingLevel.umap",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Screamers/T_Fog.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Screamers/ScreamerFog.uasset"
 			]
 		}
 	]
