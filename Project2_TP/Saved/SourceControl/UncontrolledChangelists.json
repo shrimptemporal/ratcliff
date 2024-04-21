@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/Soundz/SoundManagerComponent.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/Screamers/BP_Screamer.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerDiggingComponent.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerMovementComponent.uasset",
+				"C:/Users/James/Documents/Repositories/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
 				"/Users/beagodeaux/Desktop/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
 				"/Users/beagodeaux/Desktop/ratcliff/Project2_TP/Content/LevelPrototyping/ColorPalette/M_Biolum.uasset",
 				"/Users/beagodeaux/Desktop/ratcliff/Project2_TP/Content/LevelPrototyping/ColorPalette/M_Biolum_Blue1.uasset",
