@@ -11,7 +11,14 @@
 				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
 				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/BP_GraveBase.uasset",
 				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/NS_GraveFloaters.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerHidingComponent.uasset"
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerHidingComponent.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_Anim.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/diffuse_cube.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/ibl_brdf_lut.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/specular_cube.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForHand.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset"
 			]
 		}
 	]
