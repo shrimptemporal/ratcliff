@@ -5,42 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_Anim.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForHand.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForBack.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/diffuse_cube.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/ibl_brdf_lut.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/specular_cube.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_GrassTuft1.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/LevelPrototyping/Meshes/Environment/SM_GrassTuft2.uasset",
-=======
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/Levels/Menus/StartScreen.umap",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/Controls_UI.uasset",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/Left_Scroll_UI.uasset",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/Objectives_UI.uasset",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/Ratcliff_UI/Right_Scroll_UI.uasset",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/UI/Widgets/W_StartScreen.uasset",
-				"C:/Users/ethan.vawter/GitRepo/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft5.umap",
->>>>>>> origin/main
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Screamers/BP_Screamer.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LightingLevel.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/BP_WheelBarrow.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/BP_GraveBase.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Graves/NS_GraveFloaters.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/PlayerHidingComponent.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_Anim.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/diffuse_cube.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/ibl_brdf_lut.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/digAnim_fbm/specular_cube.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForBack.uasset",
 				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForHand.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset"
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/ScreamerLocals.umap",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft5.umap",
+				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap"
 			]
 		}
 	]
