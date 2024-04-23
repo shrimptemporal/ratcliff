@@ -5,15 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/jasmine.leong/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForBack.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/Characters/Player_Charcter/ShovelForHand.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Player/BP_PlayerCharacter.uasset",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/ScreamerLocals.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft5.umap",
-				"C:/Users/nate.spielman/Documents/Repos/ratcliff/Project2_TP/Content/GraveShift/Levels/LevelDraft4.umap"
+				"D:/ratcliff/Project2_TP/Content/Audio/SFX/Heartbeat.uasset",
+				"D:/ratcliff/Project2_TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IL/WW3RIH3HLH2Z1AW8UQBSOR.uasset"
 			]
 		}
 	]
